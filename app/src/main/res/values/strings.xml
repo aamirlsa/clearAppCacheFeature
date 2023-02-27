@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClearCache</string>
+    <string name="label_cache">"Clear locally cached images. Currently : "</string>
+</resources>
